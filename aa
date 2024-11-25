@@ -1,0 +1,38 @@
+## Exercício:
+
+### Objetivo:
+Construir uma mini-loja em uma única página, permitindo a inserção e exclusão de produtos em um carrinho de compras.
+
+### Requisitos:
+1. *Uso de Tecnologias:*
+   - O sistema deve utilizar:
+     - *Session*
+     - *Cookies*
+     - *Banco de Dados*
+  
+2. *Ambiente:*
+   - O projeto deve ser hospedado em um servidor com sistema operacional Windows.
+   - O acesso ao sistema deve ser feito a partir de um terminal Linux.
+
+3. *Interdisciplinaridade:*
+   - O trabalho será desenvolvido pela mesma equipe que está realizando o TCC, integrando as disciplinas PW3 e IPSSI.
+
+4. *Documentação:*
+   - É obrigatório gravar um vídeo demonstrando o funcionamento do sistema e hospedá-lo no YouTube.
+   - Todo o código-fonte deve ser disponibilizado no GitHub.
+
+### Entrega:
+- O resultado final deve incluir:
+  - O link do vídeo no YouTube.
+  - O link do diretório do projeto no GitHub.
+  - O representante recolherá as atividades em um arquivo .txt
+  - Data: semana de 25 a 28/11
+
+
+### Dicas:
+- Planeje a estrutura da mini-loja antes de começar a codificar.
+- Teste o funcionamento do carrinho de compras em diferentes cenários.
+- Certifique-se de que todos os requisitos técnicos estão sendo atendidos.
+
+
+
